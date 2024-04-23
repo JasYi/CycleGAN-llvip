@@ -1,1 +1,0 @@
-unzip '../drive/MyDrive/SophSem2CV/FinalProject/LLVIP_dataset.zip' -d 'datasets/'
