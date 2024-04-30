@@ -3,6 +3,7 @@ import cv2
 import numpy as np
 import sys
 from skimage.metrics import structural_similarity as ssim
+import os
 
 def PSNR(original, compressed): 
     mse = np.mean((original - compressed) ** 2) 
