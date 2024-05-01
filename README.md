@@ -1,5 +1,3 @@
-<br><br><br>
-
 # Using CycleGAN on the LLVIP Dataset
 
 - Maggie Shen xs196
@@ -36,5 +34,10 @@ We also created a script to automatically calculate the SSIM and PSNR of the tes
 The slides to the presentation can be found here: https://docs.google.com/presentation/d/1O9bgmv8MsB9U3hb2igXc80aYukIb3_g7DYCzxg3MzAM/edit#slide=id.p
 
 ## Results
+Epochs: 9
+
+Batch Size: 1
+
 SSIM: 0.5362336975684212
+
 PSNR: 28.236523251364066
