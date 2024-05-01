@@ -19,6 +19,8 @@ The original github repository this is forked from is https://github.com/junyanz
 
 ## Colab Notebook
 
+Instructions on how to run the code can be found in the colab notebook.
+
 The colab notebook can be found here: https://colab.research.google.com/drive/1bh0GYlusrWpQO-nRBK1HKRrHysOh1inr?authuser=1#scrollTo=0sp7TCT2x9dB
 
 ## Dataset
@@ -28,3 +30,11 @@ We have two LLVIP Datasets. The first dataset is the full LLVIP dataset and the 
 ## SSIM and PSNR Metrics
 
 We also created a script to automatically calculate the SSIM and PSNR of the test set. The script is `metrics.py`
+
+## Slides
+
+The slides to the presentation can be found here: https://docs.google.com/presentation/d/1O9bgmv8MsB9U3hb2igXc80aYukIb3_g7DYCzxg3MzAM/edit#slide=id.p
+
+## Results
+SSIM: 0.5362336975684212
+PSNR: 28.236523251364066
